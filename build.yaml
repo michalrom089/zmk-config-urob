@@ -13,5 +13,7 @@
 #
 ---
 include:
-  - board: caldera_left
-  - board: caldera_right
+  - board: nice_nano_v2
+    shield: caldera_left
+  - board: nice_nano_v2
+    shield: caldera_right
